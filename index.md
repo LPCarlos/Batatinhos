@@ -45,8 +45,8 @@
 						<div class="inner">
 							<!--a href="#" class="image"><img src="images/dp.png" alt="" /></a-->
 							<div class="logo"><span class="icon fa-gem"></span></div>
-							<h2>This1 is Solid State</h2>
-							<p>Another free + fully responsive site template by <a href="http://html5up.net">HTML5 UP</a></p>
+							<h2>Olá, eu sou o Diogo.</h2>
+							<p>Candidato a meter os pontos nos iis pelo <a href="https://iniciativaliberal.pt/">Iniciativa Liberal</a></p>
 						</div>
 					</section>
 

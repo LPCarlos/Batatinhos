@@ -6,7 +6,7 @@
 -->
 <html>
 	<head>
-		<title>Solid State by HTML5 UP</title>
+		<title>Diogo Prates - Iniciativa Liberal</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
@@ -21,7 +21,7 @@
 					<header id="header" class="alt">
 						<h1><a href="index.html">Solid State</a></h1>
 						<nav>
-							<a href="#menu">Menu</a>
+							<a href="#menu"></a>
 						</nav>
 					</header>
 
@@ -30,11 +30,13 @@
 						<div class="inner">
 							<h2>Menu</h2>
 							<ul class="links">
-								<li><a href="index.html">Home</a></li>
-								<li><a href="generic.html">Generic</a></li>
-								<li><a href="elements.html">Elements</a></li>
-								<li><a href="#">Log In</a></li>
-								<li><a href="#">Sign Up</a></li>
+								<li><a href="index.md">Home</a></li>
+								<li><a href="generic.html">Agenda</a></li>
+								<li><a href="#">Em Almada</a></li>
+								<li><a href="#">Em Setúbal</a></li>
+								<li><a href="#">Em Portugal</a></li>
+								<li><a href="elements.html">Imprensa</a></li>
+								<li><a href="#">Percurso</a></li>
 							</ul>
 							<a href="#" class="close">Close</a>
 						</div>
